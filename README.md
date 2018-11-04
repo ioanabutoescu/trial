@@ -16,7 +16,7 @@ utilizatorilor posibilitatea de a adauga intr-un watchlist filme pe care doresc 
 se axeaza strict pe nevoile utilizatorului, prezentand in mare parte detalii despre filme, top-uri realizate de alti
 utilizatori si noutati din domeniu.
 Un alt produs asemanator de pe piata este Letterboxd, site ce permite utilizatorului crearea unui cont si mentinerea
-unui "jurnal" in care va adauga filmele vizionate...
+unui "jurnal" in care va adauga filmele vizionate....
 
 # Interfete aplicatie
 
